@@ -1,0 +1,21 @@
+{
+    "full_name": "Sami Andoni",
+    "name": "Seem",
+    "current_role": "Buisness Owner of Health Food Subsidiaries",
+    "location": "Ramallah, Palestine",
+    "email": "sami.andoni@gmail.com",
+    "linkedin": "linkedin.com/in/samiandoni",
+    "specialties": [
+      "AI & LLM Engineering",
+      "Software Design",
+      "Project Management"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "BA Eng",
+        "institution": "Birzeit University",
+        "year": "2007"
+      }
+    ]
+  }
